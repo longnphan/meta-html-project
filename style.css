@@ -20,7 +20,12 @@ article {
 }
 
 article > img {
-  width: 200px;
+  margin-bottom: 1rem;
+  width: 250px;
+}
+
+article h2 {
+  margin-bottom: 1rem;
 }
 
 body {
@@ -46,7 +51,7 @@ footer div {
   flex: 1;
 }
 
-.footer-image {
+footer img {
   width: 20px;
 }
 
